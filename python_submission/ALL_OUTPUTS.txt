@@ -1,0 +1,26 @@
+EXP-7 — PROGRAM OUTPUTS
+
+===== q1.py =====
+[3, 6, 9, 12, 15]
+
+===== q2.py =====
+[15, 18, 21, 24]
+
+===== q3.py =====
+[1, 3, 16, 125, 1296]
+
+===== q4.py =====
+Uppercase: ['A', 'B', 'C', 'A', 'B', 'C', 'D']
+Lowercase: ['a', 'b', 'c', 'a', 'b', 'c', 'd']
+Without duplicates: ['A', 'C', 'D', 'B']
+
+===== q5.py =====
+List of strings: ['10', '20', '30', '40']
+Tuple converted to list of strings: ['50', '60', '70', '80']
+
+===== q6.py =====
+Positive numbers: 3
+Negative numbers: 3
+Zeros: 2
+Ratio = 3 : 3 : 2
+
