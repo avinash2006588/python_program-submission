@@ -1,0 +1,1 @@
+# 2. WAP to add three given list using python map and lambda
